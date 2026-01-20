@@ -1,0 +1,40 @@
+
+    img:hover{
+    transform: scale(1.1);
+    }
+    a:hover{
+    color: blue;
+    font-size: 17px;
+    }
+ 
+    body{
+    background: linear-gradient(45deg, #8FBC8F, #99CBFF) 
+    color: white;
+    }
+    p{
+    font-size:18px;
+    font-size:Georgia, serif;
+    color: white;
+    text-align: left;
+    }
+    th{
+    font-size: 22px;
+    }
+
+
+#container{
+    height: 170vh;
+    width:100%;
+    background: linear-gradient(45deg, #8FBC8F, #99CBFF) ;
+}
+.foto{
+    width: 400;
+    height: 200;
+    border-radius: 10px;
+    display: block;
+    margin: 20px auto;
+}
+
+
+
+
